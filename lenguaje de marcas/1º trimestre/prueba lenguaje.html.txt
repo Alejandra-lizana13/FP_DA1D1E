@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Mis asignaturas </title>
+</head>
+<body> <bgcolor= "agua"><align center></B>
+<h1> asignaturas</h1>
+<p><B><align  programacion</p>
+<p><B><align base de datos</p>
+<p><B><align sistemas informaticos</p>
+<p><B><align FOL </p>
+<p><B><align entornos de desarrollo </p>
+<p><B><align lenguaje de marcas</p>
+</body></align center></B>
+</html>

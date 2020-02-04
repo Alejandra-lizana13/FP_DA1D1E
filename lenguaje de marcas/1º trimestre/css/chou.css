@@ -1,0 +1,89 @@
+#titulo{
+	color:#00CC99;
+}
+p strong{
+	color: #FF0000;
+}
+span.destacado {
+	color:#FFFF00;
+}
+#subtitulo{
+color:blue;
+}
+
+a{ 
+color:red;
+}
+
+a em{
+ color:blue;
+}
+
+span.especial{
+color:purple;
+}
+
+caption{
+color:blue;
+}
+table{
+   border: 1px;
+   border: solid 1px #000000;
+   border-style: solid;
+   padding: 0px;
+    border-collapse:collapse;
+    border-spacing: 1px;
+}
+
+tbody{
+   border: solid 1px #000000;
+}
+thead th{
+   color:orange   ;
+   border: solid 1px #000000;
+}
+tfoot{
+   color:red;
+   border: solid 1px #000000;
+}
+tfoot th{
+   border: solid 1px #000000;
+}
+tbody{
+   color: rgb(9, 161, 72);
+   border: solid 1px #000000;
+}
+tbody th.especial{
+   color:orange;
+   border: solid 1px #000000;
+}
+tbody td{
+   border: solid 1px #000000;
+}
+
+tbody th.especial2{
+   color:red;
+   border: solid 1px #000000;
+}
+
+tbody em{
+   font-style: oblique;
+}
+
+tbody strong{
+   color: orange;
+}
+
+
+#adicional{
+   color: olive;}
+
+#adicional p a{
+   color: green;
+}
+span#especial{
+   color:fuchsia;
+}
+
+
+	
